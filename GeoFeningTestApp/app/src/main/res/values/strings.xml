@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoFencing Tut App</string>
+
+    <string name="geofence_transition_notification_text">
+        Click notification to return to app</string>
+
+
+    <string name="geo_API_key"> AIzaSyABf_XjQEk4ZlMsIysW3P6x0LcpfsdNE28</string>
+
+    <string name="geofence_transition_invalid_type">
+        Geofence transition error: invalid transition type %1$d
+    </string>
+
+    <!-- Transition type strings -->
+    <string name="geofence_transition_entered">Entered</string>
+    <string name="geofence_transition_exited">Exited</string>
+    <string name="unknown_geofence_transition">Unknown Transition</string>
+</resources>
+
